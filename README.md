@@ -1,44 +1,50 @@
+<!-- Animated Header -->
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R1N3J4d2VxZ3V4Z2R6Z3B6aGx6b2F6a2N4cG5tY2F6dG9qN2V3aGZ5bGJqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" 
+    width="100%" 
+  />
+</p>
+
 <h1 align="center">Hi, I'm Bayan Algherbawi 👋</h1>
 
 <h3 align="center">
-  AI-Assisted Software Builder 🤖 | Web • SaaS • Desktop • Mobile 💻
+  AI-Assisted Software Developer 🤖 | Web • SaaS • Desktop • Mobile 💻
 </h3>
 
 <p align="center">
-  Building real-world software with AI, modern development tools, and a strong focus on business systems.
+  I build real-world software using AI, modern technologies, and practical system architecture.
 </p>
 
 <p align="center">
   <a href="https://github.com/BayanAlgherbawi">
     <img src="https://img.shields.io/badge/GitHub-BayanAlgherbawi-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bayan%20Algherbawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
-
 ## 🚀 About Me
 
-I'm Bayan Algherbawi, a software builder who uses **AI as a core part of the development process**.
+I'm **Bayan Algherbawi**, a software developer who uses **Artificial Intelligence as a core part of my development workflow**.
 
-I build websites, SaaS platforms, business management systems, accounting software, desktop applications, and mobile applications by combining:
+I build websites, SaaS platforms, business management systems, accounting software, desktop applications, and mobile applications.
 
-* 🤖 AI-assisted development
-* 🧠 Software architecture and system design
-* 💻 Modern web technologies
+My work combines:
+
+* 🤖 AI-assisted software development
+* 🧠 System architecture
+* 💻 Web & application development
 * 🗄️ Database design
-* 🔐 Authentication, roles & permissions
+* 🔐 Authentication & permissions
 * 📊 Accounting & business logic
-* 🎨 UI/UX design
-* ☁️ Cloud & SaaS architecture
+* 🎨 UI/UX
+* ☁️ Cloud & SaaS systems
 
-My goal is not simply to write code.
+I don't use AI simply to generate code.
 
-**My goal is to turn a business requirement into a working software product.**
+**I use AI to turn ideas and business requirements into complete, functional software products.**
 
 ---
 
@@ -46,31 +52,42 @@ My goal is not simply to write code.
 
 Artificial Intelligence is an essential part of how I build software.
 
-I use AI throughout the development lifecycle:
+I use AI throughout the development process for:
+
+* Understanding and structuring requirements
+* System architecture
+* Database design
+* Writing and refactoring code
+* Debugging
+* Testing
+* UI/UX development
+* Documentation
+* Automation
+* Exploring technical solutions
+
+My workflow:
 
 ```text
-Business Idea
-     ↓
-Requirements
-     ↓
-System Architecture
-     ↓
-Database Design
-     ↓
-UI / UX
-     ↓
-AI-Assisted Development
-     ↓
-Testing & Debugging
-     ↓
-Deployment
-     ↓
-Continuous Improvement
+💡 Idea
+   ↓
+📋 Requirements
+   ↓
+🧠 Architecture
+   ↓
+🗄️ Database
+   ↓
+🎨 UI / UX
+   ↓
+🤖 AI-Assisted Development
+   ↓
+🧪 Testing & Debugging
+   ↓
+🚀 Deployment
+   ↓
+🔄 Continuous Improvement
 ```
 
-I use AI to accelerate development, explore solutions, generate and refactor code, debug problems, design interfaces, work with databases, and automate repetitive development tasks.
-
-But AI-generated code still needs to be **reviewed, tested, understood, and validated**.
+AI helps me build faster, but the software still needs to be **reviewed, tested, validated, and designed correctly**.
 
 ---
 
@@ -79,76 +96,69 @@ But AI-generated code still needs to be **reviewed, tested, understood, and vali
 ### 🌐 Web Applications
 
 * Business management systems
-* ERP & POS systems
+* ERP systems
+* POS systems
 * Accounting systems
 * Inventory management
+* Dashboards & reports
 * Customer & supplier management
-* Dashboards and reporting systems
 * Arabic RTL applications
 
 ### ☁️ SaaS Applications
 
-* Multi-tenant systems
+* Multi-tenant platforms
 * Company & branch management
 * Role-based permissions
-* Subscription-based platforms
+* Cloud applications
 * Central administration
-* Cloud databases
+* Business automation
 
 ### 🖥️ Desktop Applications
 
 * Accounting software
-* Business management applications
-* Offline-first applications
-* Local database systems
-* SQLite-based applications
+* Business management systems
+* Offline applications
+* Local database applications
+* SQLite-based systems
 
 ### 📱 Mobile Applications
 
 * Business applications
-* Management tools
-* Customer-facing applications
-* Mobile companions for SaaS systems
+* Management applications
+* Customer applications
+* Mobile applications connected to SaaS platforms
 
 ---
 
 ## 🧠 Areas I Focus On
 
-* Accounting Systems
-* ERP
-* POS
-* Inventory
-* Financial Reports
-* SaaS Architecture
-* Multi-Tenant Applications
-* RBAC & Permissions
-* Database Design
-* Business Logic
-* Arabic RTL Systems
-* Automation
-* AI-Assisted Development
+* 📊 Accounting Software
+* 🏢 ERP
+* 🛒 POS
+* 📦 Inventory Management
+* 📈 Financial Reporting
+* ☁️ SaaS Architecture
+* 🏗️ Multi-Tenant Systems
+* 🔐 RBAC & Permissions
+* 🗄️ Database Architecture
+* ⚙️ Business Logic
+* 🌍 Arabic RTL Applications
+* 🤖 AI-Assisted Development
+* 🔄 Business Automation
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧾 Current Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,python,flutter,dart,nodejs,supabase,postgresql,sqlite,git,github,vscode,figma" />
-</p>
-
----
-
-## 🏗️ Current Projects
-
-### 🧾 حسيب | Haseeb
+### 🧮 حسيب | Haseeb
 
 A cloud accounting and business management platform designed around real accounting workflows.
 
-Focus areas:
+Key areas include:
 
 * 📒 Chart of Accounts
 * 🧾 Automatic Journal Entries
-* 📊 General Ledger
+* 📚 General Ledger
 * ⚖️ Trial Balance
 * 💰 Income Statement
 * 🏦 Balance Sheet
@@ -165,20 +175,111 @@ Focus areas:
 
 A complete business management system for tailoring, laundry, ironing, carpet washing, and sofa washing businesses.
 
-Includes:
+The system includes:
 
-* POS
-* Services
-* Inventory
-* Raw materials
-* Purchases
-* Sales
-* Expenses
-* Customers
-* Suppliers
-* Accounting
-* Reports
-* Branch management
+* 🛒 POS
+* 🧺 Services
+* 📦 Inventory
+* 🧪 Raw Materials
+* 🧾 Purchases
+* 💰 Sales
+* 💸 Expenses
+* 👥 Customers
+* 🤝 Suppliers
+* 📊 Accounting
+* 📈 Financial Reports
+* 🏢 Branch Management
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,python,flutter,dart,nodejs,supabase,postgresql,sqlite,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🏗️ Software Development Approach
+
+I focus on building software around the **actual business process**, not just creating screens.
+
+```text
+Business Requirements
+        ↓
+Business Logic
+        ↓
+Database Architecture
+        ↓
+Application Architecture
+        ↓
+User Interface
+        ↓
+Accounting & Transactions
+        ↓
+Reports & Analytics
+        ↓
+Testing
+        ↓
+Production
+```
+
+The goal is to build systems that are:
+
+* ✅ Reliable
+* ✅ Practical
+* ✅ Scalable
+* ✅ Easy to use
+* ✅ Maintainable
+* ✅ Business-focused
+
+---
+
+## 💡 My Development Philosophy
+
+> **Don't build software just to write code. Build software to solve real problems.**
+
+I care about:
+
+* Correct business logic
+* Reliable accounting
+* Strong database architecture
+* Simple user experience
+* Scalable systems
+* Maintainable code
+* Practical solutions
+* Fast development with AI
+
+---
+
+## 🎯 What I'm Building Toward
+
+I'm working toward building practical software products that help businesses:
+
+**Automate → Manage → Analyze → Grow**
+
+My main areas of interest:
+
+```text
+                 🤖 AI
+                  │
+                  ▼
+        ┌───────────────────┐
+        │   Business Apps   │
+        └───────────────────┘
+                  │
+       ┌──────────┼──────────┐
+       ▼          ▼          ▼
+   📊 Accounting  📦 ERP    🛒 POS
+       │          │          │
+       └──────────┼──────────┘
+                  ▼
+             ☁️ SaaS
+                  │
+        ┌─────────┴─────────┐
+        ▼                   ▼
+    🖥️ Desktop           📱 Mobile
+```
 
 ---
 
@@ -191,46 +292,12 @@ Includes:
 
 ---
 
-## 💡 My Development Philosophy
+## ⚡️ My Motto
 
-> **Don't build software just to write code. Build software to solve real problems.**
+<h3 align="center">
 
-I care about:
+**Build faster with AI.**
+**Think deeper about the system.**
+**Build software that solves real problems.**
 
-* ✅ Correct business logic
-* ✅ Reliable accounting
-* ✅ Clean database architecture
-* ✅ Simple user experience
-* ✅ Scalable systems
-* ✅ Maintainable code
-* ✅ Real-world usability
-* ✅ Fast development with AI
-
----
-
-## 🎯 What I'm Working Toward
-
-I'm building a portfolio of practical software products focused on **business automation and digital transformation**.
-
-The long-term direction includes:
-
-```text
-Business Software
-       │
-       ├── Accounting
-       ├── ERP
-       ├── POS
-       ├── Inventory
-       ├── SaaS
-       ├── Desktop
-       └── Mobile
-              │
-              ↓
-        AI-Assisted Systems
-```
-
----
-
-## ⚡️ Motto
-
-> **“Build faster with AI. Think deeper about the system.”**
+</h3>
