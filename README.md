@@ -1,11 +1,6 @@
 <!-- Animated Header -->
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R1N3J4d2VxZ3V4Z2R6Z3B6aGx6b2F6a2N4cG5tY2F6dG9qN2V3aGZ5bGJqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" 
-    width="100%" 
-  />
-</p>
+
 
 <h1 align="center">Hi, I'm Bayan Algherbawi 👋</h1>
 
